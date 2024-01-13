@@ -582,6 +582,10 @@ summary::-webkit-details-marker {
     margin: 0;
   }
 
+    .Fon {
+    height: 200px;
+  }
+
   .menu {
     display: flex;
     flex-direction: column;
